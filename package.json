@@ -1,0 +1,14 @@
+{
+  "name": "marble-maze",
+  "version": "1.0.0",
+  "description": "Arduino marble maze controlled by the leap motion",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Charlie Gerard",
+  "license": "ISC",
+  "dependencies": {
+  	"johnny-five": "*"
+  }
+}
